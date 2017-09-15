@@ -13,7 +13,7 @@ trying each of the cuts, and adding best(size - currentCutSize).
 As the result for each size is calculated once, this should be very
 efficient at totalling the values of the list of raw gems.
 
-SWift offers a nice combination of features for this solution, including
+Swift offers a nice combination of features for this solution, including
 the functional reduce() and class and struct types, used for Stone and 
 Chunk (which finds its own value on initialisation) respectively.
 
